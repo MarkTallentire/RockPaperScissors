@@ -1,0 +1,14 @@
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.deps.json
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.runtimeconfig.json
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.dll
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.pdb
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfo.cs
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.dll
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/refint/RockPaperScissors.dll
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
+/Users/marktallentire/aplayersguide/TheCatacombs/RockPaperScissors/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll
